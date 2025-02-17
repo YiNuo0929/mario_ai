@@ -21,4 +21,4 @@ Numpy=1.25
 2. 觀察參數間設計差異
 3. 使用Policy gradient
 4. 其他RL方法完成任務或自定義model（額外）
-5. 有更多coding可自行決定
+5. 有更多coding邏輯可自行決定
